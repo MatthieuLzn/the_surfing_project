@@ -10,3 +10,12 @@ body
    background-position: top;
    
 }
+
+header
+{
+    height: 45px;
+    margin: 0;
+    background-color: #ABB2B9;
+
+}
+
