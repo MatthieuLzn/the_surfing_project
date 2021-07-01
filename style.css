@@ -1,15 +1,21 @@
 body
 {
     font-family: 'Jomhuria', cursive;
+
+  
 }
+
 
 #jumbotron-hero
 {
    height: 500px;
    background-image: url(surfs.jpg);
    background-position: top;
+   padding: none;
    
 }
+
+
 
 header
 {
@@ -18,4 +24,3 @@ header
     background-color: #ABB2B9;
 
 }
-
