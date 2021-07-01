@@ -1,0 +1,12 @@
+body
+{
+    font-family: 'Jomhuria', cursive;
+}
+
+#jumbotron-hero
+{
+   height: 500px;
+   background-image: url(surfs.jpg);
+   background-position: top;
+   
+}
